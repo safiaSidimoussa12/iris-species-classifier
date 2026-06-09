@@ -3,7 +3,7 @@
 An interactive machine learning web application that uses a Random Forest model to classify flower species based on physical measurements.
 
 ## Preview
-![Application Interface](Capture d'écran 2026-06-09 113207.jpg)
+![Application Interface](screenshot.jpg)
 
 ## How It Works
 1. Loads the classic Iris Dataset.
